@@ -3,7 +3,7 @@
   "version": 1, 
   "newProjectRoot": "projects",
   "projects": {
-    "routing": {
+    "forms": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/routing",
+            "outputPath": "dist/forms",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -24,7 +24,7 @@
               "src/assets"
             ],
             "styles": [
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              //"./node_modules/boostrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -63,18 +63,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "routing:build"
+            "browserTarget": "forms:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "routing:build:production"
+              "browserTarget": "forms:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "routing:build"
+            "browserTarget": "forms:build"
           }
         },
         "test": {
@@ -111,15 +111,15 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "routing:serve"
+            "devServerTarget": "forms:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "routing:serve:production"
+              "devServerTarget": "forms:serve:production"
             }
           }
         }
       }
     }},
-  "defaultProject": "routing"
+  "defaultProject": "forms"
 }
