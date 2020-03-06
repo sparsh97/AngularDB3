@@ -1,0 +1,4 @@
+https://dev.to/dileno/build-an-angular-8-app-with-rest-api-and-asp-net-core-2-2-part-2-46ap
+
+
+https://github.com/dileno/Blog-tutorial-Angular-8-.NET-Core-2.2-CRUD
