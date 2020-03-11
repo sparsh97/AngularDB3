@@ -13,12 +13,4 @@ C:\Users\INT163\Documents\AngularDemo\Blog\obj\Debug\netcoreapp2.2\Blog.Assembly
 C:\Users\INT163\Documents\AngularDemo\Blog\obj\Debug\netcoreapp2.2\Blog.RazorTargetAssemblyInfo.cache
 C:\Users\INT163\Documents\AngularDemo\Blog\obj\Debug\netcoreapp2.2\Blog.dll
 C:\Users\INT163\Documents\AngularDemo\Blog\obj\Debug\netcoreapp2.2\Blog.pdb
-C:\Users\INT163\Documents\AngularDemo\Blog\bin\Debug\netcoreapp2.2\ClientApp\angular.json
-C:\Users\INT163\Documents\AngularDemo\Blog\bin\Debug\netcoreapp2.2\ClientApp\e2e\tsconfig.json
-C:\Users\INT163\Documents\AngularDemo\Blog\bin\Debug\netcoreapp2.2\ClientApp\package-lock.json
-C:\Users\INT163\Documents\AngularDemo\Blog\bin\Debug\netcoreapp2.2\ClientApp\package.json
-C:\Users\INT163\Documents\AngularDemo\Blog\bin\Debug\netcoreapp2.2\ClientApp\tsconfig.app.json
-C:\Users\INT163\Documents\AngularDemo\Blog\bin\Debug\netcoreapp2.2\ClientApp\tsconfig.json
-C:\Users\INT163\Documents\AngularDemo\Blog\bin\Debug\netcoreapp2.2\ClientApp\tsconfig.spec.json
-C:\Users\INT163\Documents\AngularDemo\Blog\bin\Debug\netcoreapp2.2\ClientApp\tslint.json
 C:\Users\INT163\Documents\AngularDemo\Blog\obj\Debug\netcoreapp2.2\Blog.csprojAssemblyReference.cache

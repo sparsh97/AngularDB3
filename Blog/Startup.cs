@@ -81,7 +81,8 @@ namespace Blog
                 if (env.IsDevelopment())
                 {
                     spa.UseAngularCliServer(npmScript: "start");
-                    spa.Options.StartupTimeout = TimeSpan.FromSeconds(200);
+                    //spa.Options.StartupTimeout = TimeSpan.FromSeconds(200);
+                    spa.Options.StartupTimeout = new TimeSpan(0, 1, 80);
                 }
             });
         }
